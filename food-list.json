@@ -1,0 +1,40 @@
+{
+    "food" : [
+        {
+            "name" : "Buttered popcorn",
+            "description": "is best when its sweet variety is fried up with lashings of butter till it bursts and then snarfed in greasy fistfuls while watching Netflix late at night"
+        },
+        {
+            "name": "Sop Buntut (oxtail soup)",
+            "description" : "Another popular Indonesian soup is sop buntut, which is oxtail soup. I’ve been a huge lover of oxtail dishes ever since growing up and visiting relatives in Hawaii, when I’d enjoy Chinese style oxtail stew and soup."
+        },
+        {
+            "name": "Massaman curry",
+            "description" : "Emphatically the king of curries, and perhaps the king of all foods. Spicy, coconutty, sweet and savory. Even the packet sauce you buy from the supermarket can make the most delinquent of cooks look like a Michelin potential."
+        },
+        {
+            "name": "Neapolitan pizza",
+            "description" : "The best pizza was and still is the simple Neapolitan, an invention now protected by its own trade association that insists on sea salt, high-grade wheat flour, the use of only three types of fresh tomatoes, hand-rolled dough and the strict use of a wood-fired oven, among other quality stipulations"
+        },
+        {
+            "name": "Peking duck",
+            "description" : "The maltose-syrup glaze coating the skin is the secret. Slow roasted in an oven, the crispy, syrup-coated skin is so good that authentic eateries will serve more skin than meat, and bring it with pancakes, onions and hoisin or sweet bean sauce"
+        },
+        {
+            "name": "Sate Padang (Padang satay)",
+            "description" : "Sate Padang is such a unique (and delicious) type of Indonesian sate that I had to include it in this food guide as its own"
+        },
+        {
+            "name": "Ayam Bakar Taliwang (grilled chicken)",
+            "description" : "This type of grilled chicken originates from the island of Lombok, and it’s popular with spicy grilled chicken lovers throughout Indonesia. "
+        },
+        {
+            "name": "Pecel Lele (fried catfish)",
+            "description" : "Deep fried catfish, known as pecel lele, is a very famous and common Indonesian street food, often served at street side restaurants and local food tents known as warungs"
+        },
+        {
+            "name": "Soto Betawi (Jakarta soup)",
+            "description" : "Soto Betawi is usually prepared with beef, which is boiled with aromatic herbs like lemongrass and Indonesian bay leaves, and flavored with candlenut, galangal, garlic, and shallots, and finally often a combination of both fresh cow milk and coconut milk are added to make the soup creamy."
+        }
+    ]
+}
